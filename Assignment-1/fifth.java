@@ -9,8 +9,8 @@ public class fifth {
             Student s = (Student) c.getDeclaredConstructor(fifth.class).newInstance(outerClass);
 
             
-            s.name = "vidhi";
-            s.roll_no = 49;
+            s.name = "Ram";
+            s.roll_no = 101;
 
            
             System.out.println("Student Details: ");
