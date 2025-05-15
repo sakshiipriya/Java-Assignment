@@ -19,8 +19,8 @@ public class fourth {
     public static void main(String args[]){
         //obj for student class
         student s1=new student();
-        s1.name="Vidhi";
-        s1.rollno=49;
+        s1.name="Ram";
+        s1.rollno=101;
 
         //obj for subject class
         subject sb1=new subject();
